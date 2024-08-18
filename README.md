@@ -13,8 +13,10 @@ This repository contains a simple yet functional implementation of user authenti
 
 ## ScreenShots
 
+### SignUp Page
 ![Sign-Up Page](SignUpPage.png)
 
+### SignIn Page
 ![Sign-In Page](SignInPage.png)
 
 
