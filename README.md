@@ -13,9 +13,9 @@ This repository contains a simple yet functional implementation of user authenti
 
 ## ScreenShots
 
-![Sign-Up Page](SignUpPage.jpg)
+![Sign-Up Page](SignUpPage.png)
 
-![Sign-In Page](SignInPage.jpg)
+![Sign-In Page](SignInPage.png)
 
 
 ## Installation
