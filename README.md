@@ -19,13 +19,7 @@ This repository contains a simple yet functional implementation of user authenti
 ### SignIn Page
 ![Sign-In Page](SignInPage.png)
 
+## Usage
 
-## Installation
-
-To get started with this project locally, follow these steps:
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/SachinNinja/SignUp-SignIn-Page-React.git
+- You can use these pages in any of your React project . Just set up Tailwind css and you are good to go !! Do follow if it helped !
 
